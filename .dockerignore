@@ -1,0 +1,25 @@
+# git
+.git
+.gitignore
+
+# dependencies
+node_modules
+
+# next.js
+.next
+
+# misc
+.DS_Store
+*.pem
+.env*
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+work/
+README.md
+GEMINI.md
+mise.toml
+eslint.config.mjs
+.dockerignore
+Dockerfile
+docker-compose.yml
